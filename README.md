@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Доброго дня!
+
+🔭 В данное время повышаю квалификацию в Яндекс.Практикуме на позиции "Веб-разработчик". Изучаю Front-end с VanillaJS и Реактом. Впереди server side.
 
 <!--
 **whodef/whodef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
