@@ -12,7 +12,7 @@
 
 📈 Стек:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)](https://github.com/whodef/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)
 
 ---
 ### Контакты
