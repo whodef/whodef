@@ -10,10 +10,18 @@
 
 🤝 Открыта к сотрудничеству и работе в команде.
 
+📈 Стек:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)](https://github.com/whodef/github-readme-stats)
+
+---
+### Контакты
 
 | 📨 telegram    | 📫 e-mail               |
 | -------------- |:-----------------------:|
 | @whodef        | tatyana@selyuk.com      |
+
+
 
 <!-- 
 **whodef/whodef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
