@@ -10,7 +10,7 @@
 
 🤝 Открыта к сотрудничеству и работе в команде.
 
-📈 Стек:
+📈 Статистика по стеку:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)
 
