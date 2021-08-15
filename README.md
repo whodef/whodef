@@ -19,7 +19,7 @@
 
 | 📨 telegram    | 📫 e-mail               |
 | -------------- |:-----------------------:|
-| @whodef        | tatyana@selyuk.com      |
+| [@whodef](https://t.me/whodef)| tatyana@selyuk.com|
 
 
 
