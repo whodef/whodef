@@ -1,25 +1,25 @@
-### Доброго дня!
+### Hi there!
 
-Представлюсь:
+Brief information about me...
 
-🔭 Мой вид деятельности сейчас: самозанятое лицо.
+🔭 My current activity is self-employed.
 
-🌱 В данное время повышаю квалификацию в Яндекс.Практикуме на позиции "Веб-разработчик". Изучаю Front-end с VanillaJS и Реактом. Впереди server side.
+🌱 At this time, I'm improving my qualifications at Yandex.Praktikum on the role of "Web developer". I'm currently learning Frontend with VanillaJS and React.js. I plan to study a server side development.
 
-😄 В свободное время с интересом занимаюсь своими небольшими проектами.
+😄 I am interested in learning new technologies in my spare time. Thus, I'm interested in Linux, AI and languages such as Go and Python.
 
-🤝 Открыта к сотрудничеству и работе в команде.
+🤝 I'm open to cooperation and teamwork.
 
-📈 Статистика по стеку:
+📈 Commonly used technology:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)
 
 ---
-### Контакты
+### You can find me here...
 
-| 📨 telegram    | 📫 e-mail               |
-| -------------- |:-----------------------:|
-| [@whodef](https://t.me/whodef)| tatyana@selyuk.com|
+| 📨 telegram    | 📫 e-mail               | 💬 LinkedIn |
+| -------------- |:-----------------------:| :-----------:|
+| [@whodef](https://t.me/whodef)| tatyana@selyuk.com| [in/tatiana-seliuk/](https://www.linkedin.com/in/tatiana-seliuk/)|
 
 
 
