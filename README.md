@@ -2,8 +2,6 @@
 
 A few words about my activity.
 
-🔭 My current activity is self-employed.
-
 🌱 At this time, I'm improving my qualifications at Yandex.Praktikum on the role of "Web developer". I'm currently learning Frontend with VanillaJS and React.js. I plan to study a server side development.
 
 😄 I'm interested in learning new technologies in my spare time. Thus, I'm interested in Linux (which I use in my daily activities), AI and languages such as Go and Python.
