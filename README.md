@@ -12,7 +12,6 @@ A few words about my activity.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)
 
----
 ### You can find me here...
 
 | 📨 telegram    | 📫 e-mail               | 💬 LinkedIn |
