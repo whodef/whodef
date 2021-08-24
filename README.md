@@ -10,7 +10,9 @@ A few words about my activity.
 
 📈 Commonly used technology:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact&theme=&theme=radical)
+
+
 
 ### You can find me here...
 
