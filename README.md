@@ -2,24 +2,25 @@
 
 A few words about my activity.
 
-🌱 At this time, I'm improving my qualifications at Yandex.Praktikum on the role of "Web developer". I'm currently learning Frontend with VanillaJS and React.js. I plan to study a server side development.
+🌱 At this time, I'm improving my qualifications at Yandex.Praktikum on the role of "Web developer". I'm learning Frontend with VanillaJS and React.js. and a server side development such as Node.js, express, MongoDB. You know, MERN stack.
 
-😄 I'm interested in learning new technologies in my spare time. Thus, I'm interested in Linux (which I use in my daily activities), AI and languages such as Go and Python.
+🔥 I'm interested in learning new technologies in my spare time. Thus, I'm interested in Linux (which I use in my daily activities), AI and languages such as Go and Python.
 
 🤝 I'm open to cooperation and teamwork.
 
-📈 Commonly used technology:
+🏹 Commonly used technology:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact&theme=slateorange)
 
 
 
 
-### You can find me here...
+### Follow me...
+📨 telegram: [@whodef](https://t.me/whodef)
 
-| 📨 telegram    | 📫 e-mail               | 💬 LinkedIn |
-| -------------- |:-----------------------:| :-----------:|
-| [@whodef](https://t.me/whodef)| tatyana@selyuk.com| [in/tatiana-seliuk/](https://www.linkedin.com/in/tatiana-seliuk/)|
+💬 LinkedIn: [in/tatiana-seliuk/](https://www.linkedin.com/in/tatiana-seliuk/)
+
+📫 e-mail: tatyana@selyuk.com
 
 
 
