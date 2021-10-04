@@ -20,7 +20,7 @@ I am a web developer. A few words about my activity.
 
 💬 LinkedIn: [in/tatiana-seliuk/](https://www.linkedin.com/in/tatiana-seliuk/)
 
-📫 e-mail: tatyana@selyuk.com
+📫 e-mail: tatiana@seliuk.com
 
 
 
