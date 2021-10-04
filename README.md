@@ -1,6 +1,6 @@
 ### Hi there!
 
-A few words about my activity.
+I am a web developer. A few words about my activity.
 
 🌱 At this time, I am improving my qualifications at Yandex.Praktikum on the role of "Web developer". I am learning Frontend with VanillaJS and React.js. and a server side development such as Node.js, express, MongoDB. You know, MERN stack.
 
