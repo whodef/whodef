@@ -2,7 +2,7 @@
 
 I am a web developer. A few words about my activity.
 
-🌱 At this time, I am improving my qualifications at Yandex.Praktikum on the role of "Web developer". I am learning Frontend with VanillaJS and React.js. and a server side development such as Node.js, express, MongoDB. You know, MERN stack.
+🌱 At this time, I am improving my qualifications at Yandex.Praktikum on the role of "Web developer". I am learning Frontend with VanillaJS and React.js. Also, a server side development such as Node.js, express, MongoDB. You know, MERN stack.
 
 🔥 I am interested in learning new technologies in my free time. Actually, I'm interested in Linux (which I use in my daily activities), AI and languages such as Go and Python.
 
@@ -15,7 +15,7 @@ I am a web developer. A few words about my activity.
 
 
 
-### Follow me...
+### Follow me
 📨 telegram: [@whodef](https://t.me/whodef)
 
 💬 LinkedIn: [in/tatiana-seliuk/](https://www.linkedin.com/in/tatiana-seliuk/)
