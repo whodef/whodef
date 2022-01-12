@@ -18,6 +18,10 @@ I am a web developer. A few words about my activity.
 
 📫 e-mail: tatiana@seliuk.com
 
+<p align="right"><img src="https://c.tenor.com/dfyaJw2Yne0AAAAi/meong-cat.gif" alt="Keep calm, just work!" width="110" height="100" /></p>
+
+
+
 
 
 <!-- 
