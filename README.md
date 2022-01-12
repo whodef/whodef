@@ -8,12 +8,7 @@ I am a web developer. A few words about my activity.
 
 🤝 I am open to cooperation and teamwork.
 
-🏹 Commonly used technology:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whodef&layout=compact&theme=slateorange)
-
-
-
+🏹 Commonly used technology: JacaScript, TypeScript, React.js, Next.js, CSS, JSX.
 
 ### Follow me
 📨 telegram: [@whodef](https://t.me/whodef)
