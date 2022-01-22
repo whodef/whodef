@@ -1,10 +1,10 @@
 ### Hi there!
 
-I am a web developer. A few words about my activity.
+I am Tatiana and I am web developer. A few words about my activity.
 
-🌱 At this time, I am improving my qualifications at Yandex.Praktikum on the role of "Web developer". I am learning Frontend with VanillaJS and React.js. Also, a server side development such as Node.js, express, MongoDB. You know, MERN stack.
+🌱 In order to keep abreast of developments in IT, I am interested in trends and constantly improve myself and learn.
 
-🔥 I am interested in learning new technologies in my free time. Actually, I'm interested in Linux (which I use in my daily activities), AI and languages such as Go and Python.
+🔥 At this time, I am improving my qualifications at Yandex.Praktikum in the role of "Frontend developer" on ['Lubimovka' Poject](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
 
 🤝 I am open to cooperation and teamwork.
 
