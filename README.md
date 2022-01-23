@@ -4,7 +4,7 @@ I am Tatiana and I am a web developer. A few words about my activity.
 
 🌱 In order to keep abreast of developments in IT, I am interested in trends and constantly improve myself and learn.
 
-🔥 At this time, I am improving my qualifications at Yandex.Praktikum in the role of "Frontend developer" on ['Lubimovka' Poject](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
+🔥 At this time, I am improving my qualifications at Yandex.Praktikum in the role of Frontend developer on ['Lubimovka' Poject](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
 
 🤝 I am open to cooperation and teamwork.
 
