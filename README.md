@@ -95,25 +95,23 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
 
 🤝 I am open to cooperation and teamwork.
 
-
-<h3 align="right">
-  <span style="align-items: baseline;">Follow me ► 
-    <a href="mailto:tatiana@seliuk.com">
-      <img src="http://lofrev.net/wp-content/photos/2016/06/email_logo.png" alt="e-mail" width="27" height="27" />
-    </a> 
-    <a href="https://t.me/awedev" target="_blank">
-      <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="Telegram" width="27" height="27" />
-    </a> 
-    <a href="https://www.linkedin.com/in/tatiana-seliuk/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" width="27" height="27" />
-    </a> 
-    <a href="https://www.instagram.com/whodef/" target="_blank">
-      <img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" alt="Insta" width="27" height="27" />
-    </a> 
-    <a href="https://twitter.com/whodefinit" target="_blank"><img src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="Twitter" width="27" height="27" />
-    </a> 
-  </span>
-</h3>
+<p align="right">
+  <a href="mailto:tatiana@seliuk.com">
+    <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="30" height="27" />
+  </a> 
+  <a href="https://t.me/awedev" target="_blank">
+    <img src="https://www.freeiconspng.com/thumbs/telegram-icon/web-telegram-icon--captiva-iconset--bokehlicia-4.png" alt="Telegram" width="27" height="27" />
+  </a> 
+  <a href="https://www.linkedin.com/in/tatiana-seliuk/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" width="27" height="27" />
+  </a>
+  <a href="https://www.instagram.com/whodef/" target="_blank">
+     <img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" alt="Insta" width="27" height="27" />
+   </a> 
+   <a href="https://twitter.com/whodefinit" target="_blank">
+     <img src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="Twitter" width="27" height="27" />
+   </a> 
+</p>
 
 
 <!-- 
@@ -127,6 +125,8 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
 <a href="https://www.jetbrains.com/webstorm/" target="_blank">
   <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" alt="WebStorm" width="30" height="30"/>
 </a>
+
+    
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="30" height="30"/></a>
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-svg-vector.svg" alt="GitLab" width="30" height="27"/></a>
