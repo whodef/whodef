@@ -12,7 +12,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
 
 ##### Frontend
 <p align="left"> 
-  <a href="https://www.figma.com/" target="_blank"> 
+  &nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"> 
@@ -43,7 +43,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
 
 ##### Server Side
 <p align="left">
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+  &nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img src="https://www.helenjoscott.com/wp-content/uploads/2022/03/jb_beam.png" alt="WebStorm" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://expressjs.com/" target="_blank"> 
@@ -77,7 +77,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
 
 🏹 Other Languages and Tools that I want to learn in the near future:
 <p align="left">
-  <a href="https://www.haskell.org/" target="_blank"> 
+  &nbsp;&nbsp;<a href="https://www.haskell.org/" target="_blank"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G0P1KX-J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5sbbqt9sxzw0sspnr7at.png" alt="Haskell" width="35" height="25"/>
   </a>&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"> 
