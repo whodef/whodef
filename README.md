@@ -94,7 +94,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
   <a href="mailto:tatiana@seliuk.com">
     <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="25" height="20" />
   </a>&nbsp;
-  <a href="https://t.me/awedev" target="_blank">
+  <a href="https://t.me/whodef" target="_blank">
     <img src="https://www.freeiconspng.com/thumbs/telegram-icon/web-telegram-icon--captiva-iconset--bokehlicia-4.png" alt="Telegram" width="20" height="20" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/tatiana-seliuk/" target="_blank">
