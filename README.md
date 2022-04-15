@@ -88,7 +88,11 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
   </a>
 </p>
 
-🤝 I am open to cooperation and teamwork.
+🤸‍♀️ Sometimes it's fun to solve programming problems
+
+&nbsp;&nbsp;<img src="https://www.codewars.com/users/whodef/badges/small" />
+
+🤝 I am open to cooperation and teamwork
 
 <p align="right">
   <a href="mailto:tatiana@seliuk.com">
