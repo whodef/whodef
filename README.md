@@ -90,7 +90,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
 
 🤸‍♀️ Sometimes it's fun to solve programming problems
 
-&nbsp;&nbsp;<img src="https://www.codewars.com/users/whodef/badges/small" />
+&nbsp;&nbsp;<a href="https://www.codewars.com/users/whodef/stats"><img src="https://www.codewars.com/users/whodef/badges/small" /></a>
 
 🤝 I am open to cooperation and teamwork
 
