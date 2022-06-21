@@ -80,8 +80,8 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
   &nbsp;&nbsp;<a href="https://www.haskell.org/" target="_blank"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G0P1KX-J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5sbbqt9sxzw0sspnr7at.png" alt="Haskell" width="35" height="25"/>
   </a>&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="Tensorflow" width="25" height="25"/>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="20" height="23"/>
   </a>&nbsp;
   <a href="https://go.dev/" target="_blank"> 
     <img src="https://realtoughcandy.com/wp-content/uploads/2020/11/golang-gopher.png" alt="Go Lang" width="26" height="25"/>
