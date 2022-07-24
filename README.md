@@ -19,7 +19,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="30" height="25"/>
   </a>&nbsp;
   <a href="https://webpack.js.org/" target="_blank"> 
-    <img src="https://coollogo.net/wp-content/uploads/2021/03/Webpack-logo.svg" alt="Webpack" width="25" height="25"/>
+    <img src="https://iconape.com/wp-content/png_logo_vector/webpack-logo.png" alt="Webpack" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://sass-lang.com/styleguide/brand" target="_blank"> 
     <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="25" height="25"/>
