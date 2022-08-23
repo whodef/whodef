@@ -47,7 +47,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
     <img src="https://www.helenjoscott.com/wp-content/uploads/2022/03/jb_beam.png" alt="WebStorm" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express.js" width="25" height="25"/>
+    <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express.js" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://devstickers.com/assets/img/pro/kh7x.png" alt="Node.js" width="25" height="25"/>
