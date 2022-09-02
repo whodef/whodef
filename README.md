@@ -103,7 +103,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
     <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="25" height="20" />
   </a>&nbsp;
   <a href="https://t.me/whodef" target="_blank">
-    <img src="https://www.freeiconspng.com/thumbs/telegram-icon/web-telegram-icon--captiva-iconset--bokehlicia-4.png" alt="Telegram" width="20" height="20" />
+    <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="Telegram" width="20" height="20" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/tatiana-seliuk/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20" />
