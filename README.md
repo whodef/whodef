@@ -69,7 +69,7 @@ I am Tatiana and I am a Full Stack developer. A few words about my activity.
   </a>&nbsp;
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" width="50" height="25"/>
-  </a>&nbsp;
+  </a>
    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" width="60" height="25"/>
   </a>
