@@ -1,12 +1,13 @@
 ### Hi there!
 
-I am Tatiana and I am a Full Stack developer. A few words about my activity.
+I am Tatiana and I am a Full-Stack developer. A few words about my activity.
 
 🌱 In order to keep abreast of developments in IT, I am interested in trends and constantly improve myself and learn.
 
 🔥 At this time, I am improving my qualifications at Yandex.Praktikum as a backend developer.
 - Took part in teamwork in the role of Frontend developer on ['Lubimovka' Project](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
 - Took part in teamwork on ['BBBS' Project](https://github.com/whodef/bbbs).
+- Took a leadership role in the study project ['API YaMDb'](https://github.com/whodef/api_yamdb). The YaMDb service is a database of reviews of films, books and music.
 
 #### 🛠️ Commonly used Languages and Tools
 
