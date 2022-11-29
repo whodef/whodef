@@ -90,12 +90,12 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
 </p>
 
 🤸‍♀️ Sometimes it's fun and challenging to solve programming problems, but it’s also incredibly rewarding.
-
+<!-- 
 &nbsp;&nbsp;<a href="https://www.codewars.com/users/whodef/stats"><img src="https://www.codewars.com/users/whodef/badges/small" /></a>
 
 * <a href="https://leetcode.com/awedev/" target="_blank">Leetcode Profile</a>
 
-* <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a>
+* <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a> -->
 
 🤝 I am open to cooperation and teamwork
 
