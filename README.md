@@ -19,6 +19,9 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="30" height="25"/>
   </a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="25" height="25"/>
+  </a>&nbsp;
   <a href="https://webpack.js.org/" target="_blank"> 
     <img src="https://iconape.com/wp-content/png_logo_vector/webpack-logo.png" alt="Webpack" width="25" height="25"/>
   </a>&nbsp;
