@@ -38,7 +38,7 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
     <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://jestjs.io/" target="_blank"> 
-    <img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="Tests: Jest" width="25" height="25"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Tests: Jest" width="25" height="25"/>
   </a>
 </p>
 
@@ -65,8 +65,14 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" alt="MongoDB" width="25" height="25"/>
   </a>&nbsp;
+  <a href="#" target="_blank"> 
+    <img src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/CICD%20(V4).png?width=650&name=CICD%20(V4).png" alt="CI/CD" width="50" height="25"/>
+  </a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="25" height="25"/>
+  </a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="Docker" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" width="50" height="25"/>
