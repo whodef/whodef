@@ -118,6 +118,8 @@ While I enjoy solving challenging programming problems, I also find it incredibl
 * <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a> -->
 <!-- 🤝 I am open to cooperation and teamwork -->
 
+## Follow me
+
 <p align="right">
   <a href="mailto:tatiana@seliuk.com">
     <img src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_1280.png" alt="e-mail" width="25" height="20" />
