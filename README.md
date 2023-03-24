@@ -12,7 +12,7 @@ In addition to my work as a developer, I am an avid participant in hackathons, w
 
 In fact, I still remember one particular hackathon where I had to install .NET on my Ubuntu operating system. It was a challenging experience, but it taught me the importance of being adaptable and resourceful when facing unexpected obstacles.
 
-## 🛠️ Skills
+## 🛠️ Hard Skills
 
 As a versatile developer, I have also gained expertise in various languages and tools
 <p align="left"> 
