@@ -6,7 +6,7 @@ I'm Tatiana, a highly skilled Full-Stack developer who is always striving to sta
 
 🔭 In the past, I have been a valuable member of several successful projects such as ['Lubimovka'](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) and ['BBBS'](https://github.com/whodef/bbbs), where I played a pivotal role as a Frontend developer.
 
-Furthermore, I took on a leadership role in developing the ['API YaMDb'](https://github.com/whodef/api_yamdb) study project, which is a comprehensive database of reviews for films, books, and music. This project allowed me to gain extensive experience in working with several languages and tools such as Django, MongoDB, PostgreSQL, Docker, and Flask.
+Furthermore, I took on a leadership role in developing the ['API YaMDb'](https://github.com/whodef/api_yamdb) study project, which is a comprehensive database of reviews for films, books, and music. This project allowed me to gain extensive experience in working with several languages and tools.
 
 In addition to my work as a developer, I am an avid participant in hackathons, where I have had the opportunity to collaborate with other tech enthusiasts on exciting and innovative projects. Through these events, I have honed my skills in problem-solving, team-building, and project management, all of which have proven invaluable in my work as a developer.
 
