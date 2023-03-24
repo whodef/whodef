@@ -1,17 +1,20 @@
-### Hi there!
+## Hello there!
 
-I am Tatiana and I am a Full-Stack developer. A few words about my activity.
+I'm Tatiana, a highly skilled Full-Stack developer who is always striving to stay ahead of the curve in the dynamic world of IT. I am constantly learning and exploring new trends and technologies to keep up with the latest developments in the industry.
 
-🌱 In order to keep abreast of developments in IT, I am interested in trends and constantly improve myself and learn.
+🌱 Currently, I am sharpening my backend development skills at [Yandex.Practicum](https://practicum.com/), one of the leading educational platforms for tech professionals.
 
-🔥 At this time, I am improving my qualifications at Yandex.Praktikum as a backend developer.
-- Took part in teamwork in the role of Frontend developer on ['Lubimovka' Project](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend).
-- Took part in teamwork on ['BBBS' Project](https://github.com/whodef/bbbs).
-- Took a leadership role in a study project ['API YaMDb'](https://github.com/whodef/api_yamdb). The YaMDb service is a database of reviews of films, books and music.
+🔭 In the past, I have been a valuable member of several successful projects such as ['Lubimovka'](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) and ['BBBS'](https://github.com/whodef/bbbs), where I played a pivotal role as a Frontend developer.
 
-#### 🛠️ Commonly used Languages and Tools
+Furthermore, I took on a leadership role in developing the ['API YaMDb'](https://github.com/whodef/api_yamdb) study project, which is a comprehensive database of reviews for films, books, and music. This project allowed me to gain extensive experience in working with several languages and tools such as Django, MongoDB, PostgreSQL, Docker, and Flask.
 
-##### Frontend
+In addition to my work as a developer, I am an avid participant in hackathons, where I have had the opportunity to collaborate with other tech enthusiasts on exciting and innovative projects. Through these events, I have honed my skills in problem-solving, team-building, and project management, all of which have proven invaluable in my work as a developer.
+
+In fact, I still remember one particular hackathon where I had to install .NET on my Ubuntu operating system. It was a challenging experience, but it taught me the importance of being adaptable and resourceful when facing unexpected obstacles.
+
+## 🛠️ Skills
+
+As a versatile developer, I have also gained expertise in various languages and tools
 <p align="left"> 
   &nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/>
@@ -45,7 +48,7 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
   </a>
 </p>
 
-##### Server Side
+On the server-side, I am proficient in working with 
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img src="https://www.helenjoscott.com/wp-content/uploads/2022/03/jb_beam.png" alt="WebStorm" width="25" height="25"/>
@@ -85,7 +88,11 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
   </a>
 </p>
 
-🏹 Other Languages and Tools that I want to learn in the near future:
+
+
+While I enjoy solving challenging programming problems, I also find it incredibly rewarding to work with like-minded professionals in a team environment. I am open to new opportunities and eager to collaborate with other talented individuals.
+
+🏹 In the near future, I plan to add even more expertise to my arsenal, allowing me to bring even greater value to your projects.
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.haskell.org/" target="_blank"> 
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G0P1KX-J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5sbbqt9sxzw0sspnr7at.png" alt="Haskell" width="35" height="25"/>
@@ -98,15 +105,18 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
   </a>
 </p>
 
-🤸‍♀️ Sometimes it's fun and challenging to solve programming problems, but it’s also incredibly rewarding.
+🤝 Let's connect and take your project to the next level together!
+
+
+
+<!-- 🤸‍♀️ Sometimes it's fun and challenging to solve programming problems, but it’s also incredibly rewarding. -->
 <!-- 
 &nbsp;&nbsp;<a href="https://www.codewars.com/users/whodef/stats"><img src="https://www.codewars.com/users/whodef/badges/small" /></a>
 
 * <a href="https://leetcode.com/awedev/" target="_blank">Leetcode Profile</a>
 
 * <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a> -->
-
-🤝 I am open to cooperation and teamwork
+<!-- 🤝 I am open to cooperation and teamwork -->
 
 <p align="right">
   <a href="mailto:tatiana@seliuk.com">
@@ -125,44 +135,3 @@ I am Tatiana and I am a Full-Stack developer. A few words about my activity.
      <img src="https://www.pngall.com/wp-content/uploads/2016/07/Twitter-Download-PNG.png" alt="Twitter" width="20" height="20" />
    </a>
 </p>
-
-
-<!-- 
-**whodef/whodef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
-</a>
-<a href="https://nextjs.org/" target="_blank"> 
-  <img src="https://icedevera.com/images/skills/frontEnd/next.png" alt="Next.js" width="30" height="30"/>
-</a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank">
-  <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" alt="WebStorm" width="30" height="30"/>
-</a>
-<a href="https://www.w3schools.com/html/" target="_blank">
-  <img src="https://cryptologos.cc/logos/html-coin-html-logo.png" alt="HTML" width="25" height="25"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://icon-library.com/images/css-xxl_10573.png" alt="CSS" width="25" height="25"/>
-</a> 
-
-    
-
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="30" height="30"/></a>
-<a href="https://about.gitlab.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-svg-vector.svg" alt="GitLab" width="30" height="27"/></a>
-
-Animated GIF:
-<img src="https://c.tenor.com/dfyaJw2Yne0AAAAi/meong-cat.gif" alt="Keep calm, just work!" width="100" height="90" />
-
-Pic with Pusheen:
-<img src="https://cdn.custom-cursor.com/packs/2991/pusheen-with-laptop-cursor-pack.png" alt="Keep calm, just work!" width="170" height="90" />
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
