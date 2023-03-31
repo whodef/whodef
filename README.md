@@ -66,7 +66,7 @@ On the server-side, I am proficient in working with
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python 3" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" alt="Django" width="21" height="25"/>
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" alt="Django" width="21" height="25"/>
   </a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" alt="MongoDB" width="25" height="25"/>
