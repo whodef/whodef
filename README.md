@@ -30,34 +30,34 @@ In fact, I still remember one particular hackathon where I had to install .NET o
 As a versatile developer, I have also gained expertise in various languages and tools
 <p align="left"> 
   &nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229355886-066aab48-adbe-46cd-9857-0a70b6821b7c.svg" alt="figma" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="30" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356036-0929eb73-951e-4266-a933-c50b787a16c5.png" alt="Bootstrap" width="30" height="25"/>
   </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356085-1ac91a27-b6d2-44e6-b9e4-331e39aac94e.png" alt="Tailwind" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://webpack.js.org/" target="_blank"> 
-    <img src="https://iconape.com/wp-content/png_logo_vector/webpack-logo.png" alt="Webpack" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356112-1d74c40c-4cdd-4acb-a5e2-0634955d17cb.png" alt="Webpack" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://sass-lang.com/styleguide/brand" target="_blank"> 
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356263-9a47e512-438e-4b9e-9990-5e41936c5141.png" alt="Sass" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356299-d8408f0c-5a5d-49ce-a2da-c3a5ccafd1ce.png" alt="JavaScript" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="28" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356336-405a3792-2a58-491b-8e18-d8586f8a52d8.png" alt="React" width="28" height="25"/>
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356368-f3d5aa8d-cd96-44b6-b71f-5f0179747786.png" alt="TypeScript" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356400-c3a7b373-0ff3-438e-8e0e-79a9a9089c8c.png" alt="Next.js" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://jestjs.io/" target="_blank"> 
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Tests: Jest" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229356394-8222f091-b038-469b-a8a5-8f91c1877b20.png" alt="Tests: Jest" width="25" height="25"/>
   </a>
 </p>
 
