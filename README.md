@@ -1,5 +1,3 @@
-<!-- ![E6qhmRWXMAQVTLF](https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg)
- -->
 <p align="center"><img
   src="https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg"
   width="600"
@@ -124,12 +122,8 @@ While I enjoy solving challenging programming problems, I also find it incredibl
 
 
 
-<!-- 🤸‍♀️ Sometimes it's fun and challenging to solve programming problems, but it’s also incredibly rewarding. -->
-<!-- 
+<!-- 🤸‍♀️ Sometimes it's fun and challenging to solve programming problems, but it’s also incredibly rewarding.
 &nbsp;&nbsp;<a href="https://www.codewars.com/users/whodef/stats"><img src="https://www.codewars.com/users/whodef/badges/small" /></a>
-
 * <a href="https://leetcode.com/awedev/" target="_blank">Leetcode Profile</a>
-
 * <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a> -->
-<!-- 🤝 I am open to cooperation and teamwork -->
 </details>
