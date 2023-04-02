@@ -3,7 +3,7 @@
   width="600"
   height="337"
   style="margin: 0 auto; width: 300px; height: 150px; object-fit: cover;"
-  alt="Sample image of a turtle riding on top of an alligator that is swimming in the water - scaled to 600 x 337."
+  alt="Opening the window."
 />
 </p>
 
@@ -64,40 +64,40 @@ As a versatile developer, I have also gained expertise in various languages and 
 On the server-side, I am proficient in working with 
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img src="https://www.helenjoscott.com/wp-content/uploads/2022/03/jb_beam.png" alt="WebStorm" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373640-6e4b0996-e9af-4c35-8aca-829c483cad19.png" alt="WebStorm" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express.js" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373671-727a3d76-9eb3-48da-bda5-a2a2e0c9f483.png" alt="express.js" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://devstickers.com/assets/img/pro/kh7x.png" alt="Node.js" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373690-1586ec6f-4179-4882-b1fe-6004f21c0238.png" alt="Node.js" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png" alt="Ubuntu" width="30" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373724-cf9398ae-cb9b-421f-9b1b-07554b703d83.png" alt="Ubuntu" width="30" height="25"/>
   </a>&nbsp;
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python 3" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373856-81ed7ac2-02b0-4dfb-8f23-ea9b173ea938.png" alt="Python 3" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" alt="Django" width="21" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373870-46ac5df2-e406-4d61-a43b-663075f07d2a.png" alt="Django" width="21" height="25"/>
   </a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" alt="MongoDB" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373913-a5020dd1-b370-4183-9b23-d436f6fd4d50.png" alt="MongoDB" width="25" height="25"/>
   </a>&nbsp;
   <a href="#" target="_blank"> 
-    <img src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/CICD%20(V4).png?width=650&name=CICD%20(V4).png" alt="CI/CD" width="50" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373941-363bb44a-df71-4c79-83ca-65ee2f244b2f.png" alt="CI/CD" width="50" height="25"/>
   </a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373961-d8f007f1-009e-4520-8a98-f5e7ef30944a.png" alt="PostgreSQL" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="Docker" width="25" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229373974-122e75d0-b636-416c-b0f6-e40935eb724d.png" alt="Docker" width="25" height="25"/>
   </a>&nbsp;
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite" width="50" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229374000-2494d8af-d129-436e-a161-3ee24f0a348d.png" alt="SQLite" width="50" height="25"/>
   </a>
    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" width="60" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229374028-0c3291cc-ef77-49e4-b5f8-728ad62568e3.png" alt="Flask" width="60" height="25"/>
   </a>
 </p>
 
@@ -108,13 +108,13 @@ While I enjoy solving challenging programming problems, I also find it incredibl
 🏹 In the near future, I plan to add even more expertise to my arsenal, allowing me to bring even greater value to your projects.
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.haskell.org/" target="_blank"> 
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G0P1KX-J--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/5sbbqt9sxzw0sspnr7at.png" alt="Haskell" width="35" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229374151-527e2d2c-01d2-4536-8971-fdf00e2d7222.png" alt="Haskell" width="35" height="25"/>
   </a>&nbsp;
   <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="20" height="23"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229374174-4c72cb9f-ccce-416c-a4e5-f49bfbad0da0.png" alt="PyTorch" width="20" height="23"/>
   </a>&nbsp;
   <a href="https://go.dev/" target="_blank"> 
-    <img src="https://realtoughcandy.com/wp-content/uploads/2020/11/golang-gopher.png" alt="Go Lang" width="26" height="25"/>
+    <img src="https://user-images.githubusercontent.com/7266512/229374195-b00dc846-32e1-476b-ba9f-ef7df101975a.png" alt="Go Lang" width="26" height="25"/>
   </a>
 </p>
 
