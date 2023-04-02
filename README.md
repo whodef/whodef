@@ -1,3 +1,18 @@
+<!-- ![E6qhmRWXMAQVTLF](https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg)
+ -->
+<p align="center"><img
+  src="https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg"
+  width="600"
+  height="337"
+  style="margin: 0 auto; width: 300px; height: 150px; object-fit: cover;"
+  alt="Sample image of a turtle riding on top of an alligator that is swimming in the water - scaled to 600 x 337."
+/>
+</p>
+
+<details>
+<summary>Open the window, please</summary>
+<br>
+
 ## Hello there!
 
 I'm Tatiana, a highly skilled Full-Stack developer who is always striving to stay ahead of the curve in the dynamic world of IT. I am constantly learning and exploring new trends and technologies to keep up with the latest developments in the industry.
@@ -117,3 +132,4 @@ While I enjoy solving challenging programming problems, I also find it incredibl
 
 * <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a> -->
 <!-- 🤝 I am open to cooperation and teamwork -->
+</details>
