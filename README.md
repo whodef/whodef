@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg"
-       width="600"
-       height="337"
-       style="margin: 0 auto; width: 300px; height: 150px; object-fit: cover; pointer-events: none; cursor: default;"
-       alt="Opening the window." />
+  <a href="#" style=" pointer-events: none;">
+    <img src="https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg"
+         style="width: 300px; height: 170px; object-fit: cover;"
+         alt="Opening the window." />
+  </a>
 </p>
 
 
