@@ -1,11 +1,12 @@
 <p align="center">
   <a href="#" style=" pointer-events: none; cursor: none;">
-    <img src="https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg"
-         style="width: 300px; height: 170px; object-fit: cover; pointer-events: none; cursor: none;"
+    <img src="https://user-images.githubusercontent.com/7266512/229522271-969436d5-a32d-4653-b88e-22be3748cffa.jpg"
+         style="width: 550px; height: 180px; object-fit: cover; pointer-events: none; cursor: none;"
          alt="Opening the window." />
   </a>
 </p>
-
+<!-- ![akcesoria-585x235](https://user-images.githubusercontent.com/7266512/229522271-969436d5-a32d-4653-b88e-22be3748cffa.jpg)
+<img src="https://user-images.githubusercontent.com/7266512/229354289-56107119-005f-4aa2-a6dd-6d01b02fc5f9.jpg"/> -->
 
 <details>
 <summary>Open the window, please</summary>
