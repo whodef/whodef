@@ -109,8 +109,8 @@ While I enjoy solving challenging programming problems, I also find it incredibl
   &nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229374174-4c72cb9f-ccce-416c-a4e5-f49bfbad0da0.png" alt="PyTorch" width="20" height="23"/>
   </a>&nbsp;
-  <a href="https://www.rust-lang.org/" target="_blank"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png" alt="Rust" width="27" height="27"/>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://github.com/whodef/whodef/assets/7266512/6d492613-e2ef-4368-b98d-b66d818bf467" alt="Rust" width="27" height="27"/>
   </a>&nbsp;
   <!--   <a href="https://www.haskell.org/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229374151-527e2d2c-01d2-4536-8971-fdf00e2d7222.png" alt="Haskell" width="35" height="25"/>
