@@ -106,12 +106,15 @@ While I enjoy solving challenging programming problems, I also find it incredibl
 
 🏹 In the near future, I plan to add even more expertise to my arsenal, allowing me to bring even greater value to your projects.
 <p align="left">
-  &nbsp;&nbsp;<a href="https://www.haskell.org/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/7266512/229374151-527e2d2c-01d2-4536-8971-fdf00e2d7222.png" alt="Haskell" width="35" height="25"/>
-  </a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank"> 
+  &nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229374174-4c72cb9f-ccce-416c-a4e5-f49bfbad0da0.png" alt="PyTorch" width="20" height="23"/>
   </a>&nbsp;
+  <a href="https://www.rust-lang.org/" target="_blank"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png" alt="Rust" width="27" height="27"/>
+  </a>&nbsp;
+  <!--   <a href="https://www.haskell.org/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/7266512/229374151-527e2d2c-01d2-4536-8971-fdf00e2d7222.png" alt="Haskell" width="35" height="25"/>
+  </a>&nbsp; -->
   <a href="https://go.dev/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229374195-b00dc846-32e1-476b-ba9f-ef7df101975a.png" alt="Go Lang" width="26" height="25"/>
   </a>
