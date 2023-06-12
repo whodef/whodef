@@ -99,14 +99,12 @@ On the server-side, I am proficient in working with
     <img src="https://user-images.githubusercontent.com/7266512/229374028-0c3291cc-ef77-49e4-b5f8-728ad62568e3.png" alt="Flask" width="60" height="25"/>
   </a>
   <a href="https://fastapi.tiangolo.com/lo/" target="_blank"> 
-    <img src="https://github.com/whodef/whodef/assets/7266512/87174353-1c68-4611-85ea-b36400de63c8" alt="FastAPI" width="85" height="30"/>
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="85" height="30"/>
   </a>
   <a href="https://www.uvicorn.org/" target="_blank"> 
-    <img src="https://github.com/whodef/whodef/assets/7266512/3202d175-89c9-44b4-99f7-82d37d833784" alt="Uvicorn" width="30" height="30"/>
+    <img src="https://christophergs.com/assets/images/fastapi_flask_post/uvicorn.png" alt="Uvicorn" width="30" height="30"/>
   </a>
 </p>
-
-
 
 
 While I enjoy solving challenging programming problems, I also find it incredibly rewarding to work with like-minded professionals in a team environment. I am open to new opportunities and eager to collaborate with other talented individuals.
