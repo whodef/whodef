@@ -1,4 +1,11 @@
+
+
 <p align="center">
+  
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/whodef)&nbsp;&nbsp;
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/awedev/)&nbsp;&nbsp;
+  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/whodef)&nbsp;&nbsp;
+  
   <a href="#" style=" pointer-events: none; cursor: none;">
     <img src="https://user-images.githubusercontent.com/7266512/229522271-969436d5-a32d-4653-b88e-22be3748cffa.jpg"
          style="width: 500px; height: 170px; object-fit: cover; pointer-events: none; cursor: none;"
@@ -7,7 +14,7 @@
 </p>
 
 <details>
-<summary>Open the window, please</summary>
+<summary>👇 Open the window, please</summary>
 <br>
 
 ## Hello there!
@@ -127,10 +134,9 @@ While I enjoy solving challenging programming problems, I also find it incredibl
 
 🤝 Let's connect and take your project to the next level together!
 
-
-
-<!-- 🤸‍♀️ Sometimes it's fun and challenging to solve programming problems, but it’s also incredibly rewarding.
-&nbsp;&nbsp;<a href="https://www.codewars.com/users/whodef/stats"><img src="https://www.codewars.com/users/whodef/badges/small" /></a>
-* <a href="https://leetcode.com/awedev/" target="_blank">Leetcode Profile</a>
-* <a href="https://www.hackerrank.com/whodef" target="_blank">HackerRank Profile</a> -->
 </details>
+
+
+
+
+
