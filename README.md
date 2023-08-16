@@ -1,5 +1,3 @@
-
-
 <p align="center">
   
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/whodef)&nbsp;&nbsp;
@@ -8,7 +6,7 @@
   
   <a href="#" style=" pointer-events: none; cursor: none;">
     <img src="https://user-images.githubusercontent.com/7266512/229522271-969436d5-a32d-4653-b88e-22be3748cffa.jpg"
-         style="width: 500px; height: 170px; object-fit: cover; pointer-events: none; cursor: none;"
+         style="width: 400px; height: 120px; object-fit: cover; pointer-events: none; cursor: none;"
          alt="Opening the window." />
   </a>
 </p>
