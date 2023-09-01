@@ -1,5 +1,6 @@
 <p align="center">
-  
+
+  [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/awedev)&nbsp;&nbsp;
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/whodef)&nbsp;&nbsp;
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/awedev/)&nbsp;&nbsp;
   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/whodef)&nbsp;&nbsp;
