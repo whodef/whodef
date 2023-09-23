@@ -18,7 +18,7 @@
 
 ## Hello there!
 
-I'm Tatiana, a highly skilled Full-Stack developer who is always striving to stay ahead of the curve in the dynamic world of IT. I am constantly learning and exploring new trends and technologies to keep up with the latest developments in the industry.
+I'm Tatiana, a skilled Full-Stack developer who is always striving to stay ahead of the curve in the dynamic world of IT. I am constantly learning and exploring new trends and technologies to keep up with the latest developments in the industry.
 
 🌱 Currently, I am sharpening my backend development skills at [Yandex.Practicum](https://practicum.com/), one of the leading educational platforms for tech professionals.
 
