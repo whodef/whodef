@@ -18,17 +18,13 @@
 
 ## Hello there!
 
-I'm Tatiana, a skilled Full-Stack developer who is always striving to stay ahead of the curve in the dynamic world of IT. I am constantly learning and exploring new trends and technologies to keep up with the latest developments in the industry.
+I'm Tatiana, a proficient Full-Stack developer, passionate about staying abreast of IT innovations. I’m focused on learning and mastering new trends and technologies to align with industry advancements.
 
-🌱 Currently, I am sharpening my backend development skills at [Yandex.Practicum](https://practicum.com/), one of the leading educational platforms for tech professionals.
+🌱 Currently, I'm diligently enhancing my proficiency in both backend and frontend development, staying attuned to the latest industry trends and innovations.
 
-🔭 In the past, I have been a valuable member of several successful projects such as ['Lubimovka'](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) and ['BBBS'](https://github.com/whodef/bbbs), where I played a pivotal role as a Frontend developer.
+🔭 Previously, I contributed significantly as a Frontend developer to various projects like ['Lubimovka'](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend), applying my knowledge and skills effectively. Additionally, I assumed a leadership role in the ['API YaMDb'](https://github.com/whodef/api_yamdb) study project.
 
-Furthermore, I took on a leadership role in developing the ['API YaMDb'](https://github.com/whodef/api_yamdb) study project, which is a comprehensive database of reviews for films, books, and music. This project allowed me to gain extensive experience in working with several languages and tools.
-
-In addition to my work as a developer, I am an avid participant in hackathons, where I have had the opportunity to collaborate with other tech enthusiasts on exciting and innovative projects. Through these events, I have honed my skills in problem-solving, team-building, and project management, all of which have proven invaluable in my work as a developer.
-
-In fact, I still remember one particular hackathon where I had to install .NET on my Ubuntu operating system. It was a challenging experience, but it taught me the importance of being adaptable and resourceful when facing unexpected obstacles.
+Outside of my usual development work, I actively participate in hackathons. This involves teaming up with others to work on innovative projects, allowing me to sharpen my skills in solving problems, building teams, and managing projects — skills that are essential for my role as a developer. I distinctly remember one hackathon where I faced the challenging task of installing .NET on Ubuntu. This experience underscored the importance of being adaptable and resourceful in addressing unexpected obstacles.
 
 ## 🛠️ Hard Skills
 
