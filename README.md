@@ -13,7 +13,7 @@
 </p>
 
 <details>
-<summary>👇 Open the window, please</summary>
+<summary>Open the window, please</summary>
 <br>
 
 ## Hello there!
