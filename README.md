@@ -5,10 +5,13 @@
   <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/awedev/)&nbsp;&nbsp; -->
   <!-- [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/whodef)&nbsp;&nbsp; -->
 
-  <a href="#" style=" pointer-events: none; cursor: none;">
-    <img width="500" height="500" alt="duck-meme-sticker-illustration-free-png-2025856886" src="https://github.com/user-attachments/assets/30ee72d1-f572-4dc4-b353-8a0b41c18395" />
-
-  </a>
+  <img 
+    width="300" 
+    height="300" 
+    alt="Duck meme sticker illustration"
+    style="cursor-pointer: none;"
+    src="https://github.com/user-attachments/assets/30ee72d1-f572-4dc4-b353-8a0b41c18395"
+  />
   
   <!-- <a href="#" style=" pointer-events: none; cursor: none;">
     <img src="https://user-images.githubusercontent.com/7266512/229522271-969436d5-a32d-4653-b88e-22be3748cffa.jpg"
