@@ -4,15 +4,20 @@
   <!-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000000?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/whodef)&nbsp;&nbsp; -->
   <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/awedev/)&nbsp;&nbsp; -->
   <!-- [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/whodef)&nbsp;&nbsp; -->
-  
+
   <a href="#" style=" pointer-events: none; cursor: none;">
+    <img width="500" height="500" alt="duck-meme-sticker-illustration-free-png-2025856886" src="https://github.com/user-attachments/assets/30ee72d1-f572-4dc4-b353-8a0b41c18395" />
+
+  </a>
+  
+  <!-- <a href="#" style=" pointer-events: none; cursor: none;">
     <img src="https://user-images.githubusercontent.com/7266512/229522271-969436d5-a32d-4653-b88e-22be3748cffa.jpg"
          style="width: 400px; height: 120px; object-fit: cover; pointer-events: none; cursor: none;"
          alt="Opening the window." />
-  </a>
+  </a> -->
 </p>
 
-<details>
+<!-- <details>
 <summary>Open the window, please</summary>
 <br>
 
@@ -65,9 +70,9 @@ As a versatile developer, I have also gained expertise in various languages and 
 On the server-side, I am proficient in working with 
 <p align="left">
   &nbsp;&nbsp;
-  <!-- <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229373640-6e4b0996-e9af-4c35-8aca-829c483cad19.png" alt="WebStorm" width="25" height="25"/>
-  </a>&nbsp; -->
+  </a>&nbsp;
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229373671-727a3d76-9eb3-48da-bda5-a2a2e0c9f483.png" alt="express.js" width="25" height="25"/>
   </a>&nbsp;
@@ -113,7 +118,7 @@ On the server-side, I am proficient in working with
 While I enjoy solving challenging programming problems, I also find it incredibly rewarding to work with like-minded professionals in a team environment. I am open to new opportunities and eager to collaborate with other talented individuals.
 
 🏹 In the near future, I plan to add even more expertise to my arsenal, allowing me to bring even greater value to your projects.
-<!-- <p align="left">
+<p align="left">
   &nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229374174-4c72cb9f-ccce-416c-a4e5-f49bfbad0da0.png" alt="PyTorch" width="20" height="23"/>
   </a>&nbsp;
@@ -126,11 +131,11 @@ While I enjoy solving challenging programming problems, I also find it incredibl
   <a href="https://go.dev/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/7266512/229374195-b00dc846-32e1-476b-ba9f-ef7df101975a.png" alt="Go Lang" width="26" height="25"/>
   </a>
-</p> -->
+</p>
 
 🤝 Let's connect and take your project to the next level together!
 
-</details>
+</details> -->
 
 
 
